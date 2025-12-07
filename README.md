@@ -87,8 +87,33 @@ String password = "your_password";
 **3️⃣ Run the Application<br>**
   java -cp ".;lib/mysql-connector-j-9.3.0.jar;src" Main
 
-## 🖼️ Screenshots 
+## 🖼️ Screenshots
 
+### 🔐 Login Page
+<p align="center">
+  <img src="screenshots/Login.png" width="500">
+</p>
+
+---
+
+### 📝 Registration Page
+<p align="center">
+  <img src="screenshots/Registration.png" width="500">
+</p>
+
+---
+
+### 🛫 Flight Booking Page
+<p align="center">
+  <img src="screenshots/FlightBooking.png" width="500">
+</p>
+
+---
+
+### 🎫 Ticket Summary
+<p align="center">
+  <img src="screenshots/Ticket.png" width="500">
+</p>
 
 ## 📌 Future Improvements
 
